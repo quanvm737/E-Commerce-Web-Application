@@ -1,14 +1,15 @@
-🛒 E-Commerce Web Application
+# 🛒 E-Commerce Web Application
 A full-stack Java Web application for managing an e-commerce platform — catalog, shopping cart, and order tracking in one place.
 
-✨ Features
+## ✨ Features
 📅 Account management (Login, Signup, Account Activation)
 🛍️ Storefront catalog with dynamic product search
 🛒 Interactive shopping cart operations
 💳 Secure checkout and order transaction logging
 📊 Admin dashboard for managing products, categories, accounts, and orders
 
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 | Layer | Technology |
 | :--- | :--- |
 | Frontend | JSP, JSTL, HTML, CSS, JavaScript, Bootstrap |
@@ -16,7 +17,7 @@ A full-stack Java Web application for managing an e-commerce platform — catalo
 | Database | Microsoft SQL Server (JDBC) |
 | Server | Apache Tomcat |
 
-🚀 Getting Started
+## 🚀 Getting Started
 Prerequisites
 - NetBeans IDE / Eclipse / IntelliJ IDEA
 - Apache Tomcat Server (v10 or later compatible)
@@ -37,7 +38,7 @@ Installation
    - Clean and Build the project.
    - Deploy and Run on Apache Tomcat server.
 
-📁 Project Structure
+## 📁 Project Structure
 ```text
 E-Commerce-Web-Application/
 ├── src/java/
@@ -49,6 +50,6 @@ E-Commerce-Web-Application/
 └── README.md
 ```
 
-👤 Author
+## 👤 Author
 **Vuong Minh Quan**
 - GitHub: [@quanvm737](https://github.com/quanvm737)
