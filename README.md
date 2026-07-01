@@ -20,7 +20,7 @@ A full-stack Java Web application for managing an e-commerce platform — catalo
 ## 🚀 Getting Started
 Prerequisites
 - NetBeans IDE / Eclipse / IntelliJ IDEA
-- Apache Tomcat Server (v10 or later compatible)
+- Apache Tomcat Server 9.0
 - Microsoft SQL Server
 - Java Development Kit 8
 
@@ -31,7 +31,7 @@ Installation
    cd E-Commerce-Web-Application
    ```
 2. Database Configuration
-   - Create a database named `SE1925_VuongMinhQuan_SE204737_workshop2` in Microsoft SQL Server.
+   - Use the database named `SE1925_VuongMinhQuan_SE204737_workshop2` located at this repository in Microsoft SQL Server.
    - Configure your SQL Server database credentials (username and password) in `src/conf/persistence.xml`.
 
 3. Run the Application
