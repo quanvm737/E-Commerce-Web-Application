@@ -15,12 +15,12 @@ A full-stack Java Web application for managing an e-commerce platform — catalo
 | Frontend | JSP, JSTL, HTML, CSS, JavaScript, Bootstrap |
 | Backend | Java Servlet, JPA (EclipseLink), WebFilters |
 | Database | Microsoft SQL Server (JDBC) |
-| Server | Apache Tomcat 9 |
+| Server | Apache Tomcat 9.0.119 |
 
 ## 🚀 Getting Started
 Prerequisites
 - NetBeans IDE / Eclipse / IntelliJ IDEA
-- Apache Tomcat Server 9.0
+- Apache Tomcat Server 9.0.119
 - Microsoft SQL Server
 - Java Development Kit 8
 
